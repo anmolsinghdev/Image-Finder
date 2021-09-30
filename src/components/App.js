@@ -26,7 +26,7 @@ class App extends React.Component {
         ) : (
           <ImageList images={this.state.images} />
         )}
-        'load'
+        'loading Clone'
       </div>
     );
   }
